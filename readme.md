@@ -1,4 +1,6 @@
-## Welcome! 👋
+## Welcome!  
+
+Hello!
 
 Thanks for checking out this front-end coding Project.
 
@@ -30,6 +32,6 @@ Use this section to recap over some of your major learnings while working throug
 
 ### Links
 
-- Solution URL: https://github.com/Sruthiravichnadran/Slider.git
+- Solution URL: 
 
-- Live Site URL: https://tranquil-mermaid-988976.netlify.app/
+- Live Site URL: 
