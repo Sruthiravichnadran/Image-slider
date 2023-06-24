@@ -1,3 +1,4 @@
+"use strict";
 const container = document.querySelector('.total_container')
 const btn = document.querySelectorAll('.btn')
 const image = ["2nd","3rd","4th","5th"]
